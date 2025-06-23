@@ -5,6 +5,7 @@ The repository deals with a solution to the grid optimisation problem which aims
 ![image](https://github.com/user-attachments/assets/e60cafa8-e5d9-4fc1-82fd-ce499fa65ef6)
 
 As seen in the image, there are 17 nodes which can be assigned a load and a (PV) generation curve. There are 17 load and generation profiles provided as shown in the following images.
+
 ![image](https://github.com/user-attachments/assets/16b276c0-0920-471e-9ffb-c043cead0104)
 ![image](https://github.com/user-attachments/assets/3e12be87-544d-4935-8b24-cacce62bd7a5)
 
